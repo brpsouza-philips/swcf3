@@ -1,0 +1,41 @@
+[
+    {
+        "id": "c1e91929980c1eec",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": [],
+        "extensionId": "ffe6fc38-d479-4bb6-8391-a68f1dc88729"
+    },
+    {
+        "id": "6a355e919259aa6e",
+        "type": "debug",
+        "z": "c1e91929980c1eec",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 320,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "f75afb09c9c645c3",
+        "type": "procedure",
+        "z": "c1e91929980c1eec",
+        "name": "procedure 1",
+        "params": [],
+        "sql": "",
+        "procedure": "CMDKLTD_SUM_2_VALUES4",
+        "x": 190,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    }
+]
