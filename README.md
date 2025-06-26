@@ -1,1 +1,0 @@
-# CM-Ext_Hospital_Alemao_Oswaldo_Crus_Administracao_de_Cartoes
