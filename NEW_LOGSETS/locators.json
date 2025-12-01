@@ -1,0 +1,18 @@
+{
+  "TIPO_LOCALIZAR" : [ {
+    "$operation" : "MERGE",
+    "DS_LOCALIZADOR" : "locator br 1842 v1",
+    "IE_APRESENTACAO" : "N",
+    "TIPO_LOCALIZADOR_CLIENTE" : [ ],
+    "NM_USUARIO" : "cmdk_adm",
+    "IE_LOCALIZADOR_INTERNO" : "",
+    "DT_ATUALIZACAO_NREC" : "10/11/2025 11:02:23",
+    "IE_RESTRINGE_ESTAB" : "N",
+    "NR_SEQUENCIA" : "24598",
+    "TIPO_LOCALIZAR_ATRIBUTO" : [ ],
+    "DS_SQL" : "select 3 from dual",
+    "NM_USUARIO_NREC" : "cmdk_adm",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "10/11/2025 09:49:25"
+  } ]
+}
