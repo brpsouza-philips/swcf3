@@ -1,0 +1,44 @@
+[ {
+  "event_info" : {
+    "date" : "04/12/2025 10:05:18",
+    "sequence" : 500009,
+    "date_format" : "dd/mm/rrrr hh24:mi:ss",
+    "dml_operation" : "UPDATE",
+    "table_name" : "TIPO_LOCALIZAR",
+    "tag_name" : "CMDK",
+    "tasy_user" : "brpsouza",
+    "guid" : "072a7b50-5362-4043-9fdd-6d6c6de91824"
+  },
+  "server_info" : {
+    "charset" : "AMERICAN_AMERICA.AL32UTF8",
+    "database_version" : "19.0",
+    "instance_name" : "phcdb4"
+  },
+  "session_info" : {
+    "machine" : "YY560977",
+    "os_user" : "310265025",
+    "tasy_user" : "brpsouza"
+  },
+  "primary_key_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 25085,
+    "old_value" : 25085
+  } ],
+  "column_values" : [ {
+    "column_name" : "DT_ATUALIZACAO_NREC",
+    "data_type" : "DATE",
+    "new_value" : "04/12/2025 09:56:27",
+    "old_value" : "04/12/2025 09:42:27"
+  }, {
+    "column_name" : "DS_LOCALIZADOR",
+    "data_type" : "VARCHAR2",
+    "new_value" : "Loc 04/12 v2 brpsouza 2",
+    "old_value" : "Loc 04/12 v2 brpsouza"
+  }, {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 25085,
+    "old_value" : 25085
+  } ]
+} ]
