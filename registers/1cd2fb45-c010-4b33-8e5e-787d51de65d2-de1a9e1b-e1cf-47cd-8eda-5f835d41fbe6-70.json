@@ -1,0 +1,39 @@
+[ {
+  "event_info" : {
+    "date" : "05/12/2025 13:59:08",
+    "sequence" : 500070,
+    "date_format" : "dd/mm/rrrr hh24:mi:ss",
+    "dml_operation" : "UPDATE",
+    "table_name" : "TIPO_LOCALIZAR",
+    "tag_name" : "CMDK",
+    "tasy_user" : "cmdk_adm",
+    "guid" : "1d4bb2fe-817d-40ff-996d-657a9e484d47"
+  },
+  "server_info" : {
+    "charset" : "AMERICAN_AMERICA.AL32UTF8",
+    "database_version" : "19.0",
+    "instance_name" : "phcdb4"
+  },
+  "session_info" : {
+    "machine" : "YY560977",
+    "os_user" : "310265025",
+    "tasy_user" : "cmdk_adm"
+  },
+  "primary_key_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 25118,
+    "old_value" : 25118
+  } ],
+  "column_values" : [ {
+    "column_name" : "DS_LOCALIZADOR",
+    "data_type" : "VARCHAR2",
+    "new_value" : "Loc dev test cmdk",
+    "old_value" : "Loc dev test"
+  }, {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 25118,
+    "old_value" : 25118
+  } ]
+} ]
