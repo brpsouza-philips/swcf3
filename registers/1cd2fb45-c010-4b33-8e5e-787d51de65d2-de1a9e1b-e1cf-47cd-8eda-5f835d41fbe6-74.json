@@ -1,0 +1,208 @@
+[ {
+  "event_info" : {
+    "date" : "05/12/2025 16:45:59",
+    "sequence" : 500071,
+    "date_format" : "dd/mm/rrrr hh24:mi:ss",
+    "dml_operation" : "UPDATE",
+    "table_name" : "LOCATOR_LOCALE",
+    "tag_name" : "CMDK",
+    "tasy_user" : "cmdk_adm",
+    "guid" : "b72bfdad-d2c5-48d3-9ee1-36cf97f93798"
+  },
+  "server_info" : {
+    "charset" : "AMERICAN_AMERICA.AL32UTF8",
+    "database_version" : "19.0",
+    "instance_name" : "phcdb4"
+  },
+  "session_info" : {
+    "machine" : "YY560977",
+    "os_user" : "310265025",
+    "tasy_user" : "cmdk_adm"
+  },
+  "primary_key_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 6491,
+    "old_value" : 6491
+  } ],
+  "column_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 6491,
+    "old_value" : 6491
+  }, {
+    "column_name" : "DT_ATUALIZACAO",
+    "data_type" : "DATE",
+    "new_value" : "05/12/2025 15:33:57",
+    "old_value" : "05/12/2025 13:45:07"
+  }, {
+    "column_name" : "DT_ATUALIZACAO_NREC",
+    "data_type" : "DATE",
+    "new_value" : "05/12/2025 15:33:58",
+    "old_value" : "05/12/2025 13:45:07"
+  }, {
+    "column_name" : "NR_SEQ_TIPO_LOCALIZAR",
+    "data_type" : "NUMBER",
+    "new_value" : 25118,
+    "old_value" : 25118
+  }, {
+    "column_name" : "DS_LOCALE",
+    "data_type" : "VARCHAR2",
+    "new_value" : "GBL",
+    "old_value" : "pt_BR"
+  } ]
+}, {
+  "event_info" : {
+    "date" : "05/12/2025 16:45:59",
+    "sequence" : 500072,
+    "date_format" : "dd/mm/rrrr hh24:mi:ss",
+    "dml_operation" : "UPDATE",
+    "table_name" : "LOCATOR_LOCALE",
+    "tag_name" : "CMDK",
+    "tasy_user" : "cmdk_adm",
+    "guid" : "4faa6548-a344-4422-97e5-b929946677dd"
+  },
+  "server_info" : {
+    "charset" : "AMERICAN_AMERICA.AL32UTF8",
+    "database_version" : "19.0",
+    "instance_name" : "phcdb4"
+  },
+  "session_info" : {
+    "machine" : "YY560977",
+    "os_user" : "310265025",
+    "tasy_user" : "cmdk_adm"
+  },
+  "primary_key_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 6491,
+    "old_value" : 6491
+  } ],
+  "column_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 6491,
+    "old_value" : 6491
+  }, {
+    "column_name" : "DT_ATUALIZACAO_NREC",
+    "data_type" : "DATE",
+    "new_value" : "05/12/2025 16:01:18",
+    "old_value" : "05/12/2025 15:33:58"
+  }, {
+    "column_name" : "NR_SEQ_TIPO_LOCALIZAR",
+    "data_type" : "NUMBER",
+    "new_value" : 25118,
+    "old_value" : 25118
+  }, {
+    "column_name" : "DS_LOCALE",
+    "data_type" : "VARCHAR2",
+    "new_value" : "de_AT",
+    "old_value" : "GBL"
+  } ]
+}, {
+  "event_info" : {
+    "date" : "05/12/2025 16:45:59",
+    "sequence" : 500073,
+    "date_format" : "dd/mm/rrrr hh24:mi:ss",
+    "dml_operation" : "UPDATE",
+    "table_name" : "LOCATOR_LOCALE",
+    "tag_name" : "CMDK",
+    "tasy_user" : "cmdk_adm",
+    "guid" : "971455db-8cfd-4972-a026-096566127a11"
+  },
+  "server_info" : {
+    "charset" : "AMERICAN_AMERICA.AL32UTF8",
+    "database_version" : "19.0",
+    "instance_name" : "phcdb4"
+  },
+  "session_info" : {
+    "machine" : "YY560977",
+    "os_user" : "310265025",
+    "tasy_user" : "cmdk_adm"
+  },
+  "primary_key_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 6491,
+    "old_value" : 6491
+  } ],
+  "column_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 6491,
+    "old_value" : 6491
+  }, {
+    "column_name" : "DT_ATUALIZACAO_NREC",
+    "data_type" : "DATE",
+    "new_value" : "05/12/2025 16:09:49",
+    "old_value" : "05/12/2025 16:01:18"
+  }, {
+    "column_name" : "NR_SEQ_TIPO_LOCALIZAR",
+    "data_type" : "NUMBER",
+    "new_value" : 25118,
+    "old_value" : 25118
+  }, {
+    "column_name" : "NM_ATRIBUTO",
+    "data_type" : "VARCHAR2",
+    "new_value" : "ds2",
+    "old_value" : "ds"
+  } ]
+}, {
+  "event_info" : {
+    "date" : "05/12/2025 16:45:59",
+    "sequence" : 500074,
+    "date_format" : "dd/mm/rrrr hh24:mi:ss",
+    "dml_operation" : "UPDATE",
+    "table_name" : "LOCATOR_LOCALE",
+    "tag_name" : "CMDK",
+    "tasy_user" : "cmdk_adm",
+    "guid" : "bb53e350-77cc-4d3c-a709-7a687b600716"
+  },
+  "server_info" : {
+    "charset" : "AMERICAN_AMERICA.AL32UTF8",
+    "database_version" : "19.0",
+    "instance_name" : "phcdb4"
+  },
+  "session_info" : {
+    "machine" : "YY560977",
+    "os_user" : "310265025",
+    "tasy_user" : "cmdk_adm"
+  },
+  "primary_key_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 6491,
+    "old_value" : 6491
+  } ],
+  "column_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 6491,
+    "old_value" : 6491
+  }, {
+    "column_name" : "DT_ATUALIZACAO",
+    "data_type" : "DATE",
+    "new_value" : "05/12/2025 16:20:45",
+    "old_value" : "05/12/2025 15:33:57"
+  }, {
+    "column_name" : "DT_ATUALIZACAO_NREC",
+    "data_type" : "DATE",
+    "new_value" : "05/12/2025 16:20:45",
+    "old_value" : "05/12/2025 16:09:49"
+  }, {
+    "column_name" : "NR_SEQ_TIPO_LOCALIZAR",
+    "data_type" : "NUMBER",
+    "new_value" : 25118,
+    "old_value" : 25118
+  }, {
+    "column_name" : "DS_LOCALE",
+    "data_type" : "VARCHAR2",
+    "new_value" : "GBL",
+    "old_value" : "de_AT"
+  }, {
+    "column_name" : "NM_ATRIBUTO",
+    "data_type" : "VARCHAR2",
+    "new_value" : "ds",
+    "old_value" : "ds2"
+  } ]
+} ]
